@@ -70,6 +70,7 @@
   <br>
   <br>
   <br>
-  
+ 
+[![](https://github-readme-activity-graph.cyclic.app/graph?username=murtazajoo)](https://murtazajoo.me)
   
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
