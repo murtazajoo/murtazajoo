@@ -29,7 +29,12 @@
    ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=blue&color=9cf)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=blue&color=blueviolet)   
    ![Git](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)      
-
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=blue&color=blueviolet) 
+   ![TAilWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+   ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+   ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
