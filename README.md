@@ -74,6 +74,8 @@
   
   <br>
   <br>
+  
+  [![murtazajoo's GitHub | Stats](https://stats.quine.sh/murtazajoo/github?theme=dark)](#)
   <br>
   <br>
  
