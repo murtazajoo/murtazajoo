@@ -80,11 +80,5 @@
   
   <br>
   <br>
-  
-  [![murtazajoo's GitHub | Stats](https://stats.quine.sh/murtazajoo/github?theme=dark)](#)
-  <br>
-  <br>
- 
-   ![](https://github-readme-activity-graph.vercel.app/graph?username=murtazajoo)
-  
+
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
