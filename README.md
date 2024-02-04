@@ -16,12 +16,13 @@
 - Currently learning Web Development by Self
 - Personal website [link](https://www.murtazajoo.me)
 - I’m currently open for  new job opportunity
--  I’m currently learning NEXT JS
+-  I’m currently learning Advanced Nextjs
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 - **FRONTEND**
+
 
    ![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
    ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=blue&color=9cf)
@@ -84,6 +85,6 @@
   <br>
   <br>
  
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=murtazajoo)](https://murtazajoo.me)
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=murtazajoo)
   
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
