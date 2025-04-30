@@ -14,7 +14,7 @@
 
 - A passionate Self-taught Front-end developer
 - Currently learning Web Development by Self
-- Personal website [link](https://www.murtazajoo.me)
+- Personal website [link](https://murtazajoo.vercel.app/)
 - I’m currently open for  new job opportunity
 -  I’m currently learning Advanced Nextjs
 <br><br>
@@ -73,7 +73,7 @@
 ### Connect with me:
 
 <div style="background-color:rgba(222, 222, 222, 1); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-<a href="https://murtazajoo.me/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
+<a href="https://murtazajoo.vercel.app/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
 <a href="https://www.linkedin.com/in/murtaza-joo-b5346622b/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
   </a>
   </div>
